@@ -1,0 +1,10 @@
+D:\Myfirstproject\New Library\bin\Debug\New Library.exe.config
+D:\Myfirstproject\New Library\bin\Debug\New Library.exe
+D:\Myfirstproject\New Library\bin\Debug\New Library.pdb
+D:\Myfirstproject\New Library\obj\Debug\New Library.csproj.AssemblyReference.cache
+D:\Myfirstproject\New Library\obj\Debug\New_Library.Form1.resources
+D:\Myfirstproject\New Library\obj\Debug\New_Library.Properties.Resources.resources
+D:\Myfirstproject\New Library\obj\Debug\New Library.csproj.GenerateResource.cache
+D:\Myfirstproject\New Library\obj\Debug\New Library.csproj.CoreCompileInputs.cache
+D:\Myfirstproject\New Library\obj\Debug\New Library.exe
+D:\Myfirstproject\New Library\obj\Debug\New Library.pdb
